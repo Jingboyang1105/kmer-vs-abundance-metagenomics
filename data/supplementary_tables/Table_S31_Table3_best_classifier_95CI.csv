@@ -1,0 +1,10 @@
+task,representation,classifier,AUC_mean,AUC_sd,AUC_ci95_lower,AUC_ci95_upper
+IBD,Abundance,Random Forest,0.665,0.1,0.593,0.737
+IBD,K-mer,SVM-RBF,0.698,0.073,0.646,0.75
+IBD,Fusion,Random Forest,0.731,0.073,0.679,0.783
+Obesity,Abundance,LASSO-LR,0.661,0.041,0.632,0.69
+Obesity,K-mer,XGBoost,0.703,0.06,0.66,0.746
+Obesity,Fusion,LASSO-LR,0.71,0.049,0.675,0.745
+Geographic origin,Abundance,XGBoost,0.933,0.011,0.925,0.941
+Geographic origin,K-mer,XGBoost,0.956,0.009,0.95,0.962
+Geographic origin,Fusion,XGBoost,0.971,0.006,0.967,0.975

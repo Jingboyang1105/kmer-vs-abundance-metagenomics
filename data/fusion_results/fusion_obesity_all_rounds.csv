@@ -1,0 +1,41 @@
+round,pipeline,classifier,AUC,AUPRC,F1_macro,MCC
+1,Fusion (Abundance+K-mer),LASSO-LR,0.6516,0.4058,0.6222,0.268
+1,Fusion (Abundance+K-mer),Random Forest,0.6208,0.4354,0.5555,0.2537
+1,Fusion (Abundance+K-mer),SVM (RBF),0.614,0.3706,0.6158,0.2386
+1,Fusion (Abundance+K-mer),XGBoost,0.6208,0.4106,0.5934,0.2246
+2,Fusion (Abundance+K-mer),LASSO-LR,0.7038,0.3941,0.6141,0.2613
+2,Fusion (Abundance+K-mer),Random Forest,0.6635,0.3924,0.5256,0.1506
+2,Fusion (Abundance+K-mer),SVM (RBF),0.715,0.4099,0.6803,0.3729
+2,Fusion (Abundance+K-mer),XGBoost,0.6886,0.3855,0.6145,0.2593
+3,Fusion (Abundance+K-mer),LASSO-LR,0.7343,0.4132,0.6006,0.2581
+3,Fusion (Abundance+K-mer),Random Forest,0.7543,0.5174,0.5314,0.2424
+3,Fusion (Abundance+K-mer),SVM (RBF),0.7575,0.487,0.6468,0.3164
+3,Fusion (Abundance+K-mer),XGBoost,0.7314,0.4472,0.6396,0.2849
+4,Fusion (Abundance+K-mer),LASSO-LR,0.7638,0.5337,0.6662,0.3635
+4,Fusion (Abundance+K-mer),Random Forest,0.7571,0.5096,0.5418,0.2108
+4,Fusion (Abundance+K-mer),SVM (RBF),0.7785,0.5527,0.6896,0.386
+4,Fusion (Abundance+K-mer),XGBoost,0.8068,0.5869,0.7128,0.457
+5,Fusion (Abundance+K-mer),LASSO-LR,0.719,0.4782,0.6203,0.2616
+5,Fusion (Abundance+K-mer),Random Forest,0.738,0.4877,0.5714,0.2854
+5,Fusion (Abundance+K-mer),SVM (RBF),0.7401,0.5069,0.6666,0.3513
+5,Fusion (Abundance+K-mer),XGBoost,0.7251,0.4856,0.6359,0.3048
+6,Fusion (Abundance+K-mer),LASSO-LR,0.672,0.3884,0.5601,0.1559
+6,Fusion (Abundance+K-mer),Random Forest,0.6456,0.4618,0.5568,0.315
+6,Fusion (Abundance+K-mer),SVM (RBF),0.6825,0.4295,0.6253,0.2506
+6,Fusion (Abundance+K-mer),XGBoost,0.6791,0.441,0.5984,0.2294
+7,Fusion (Abundance+K-mer),LASSO-LR,0.7429,0.518,0.6155,0.2705
+7,Fusion (Abundance+K-mer),Random Forest,0.6782,0.4699,0.541,0.2394
+7,Fusion (Abundance+K-mer),SVM (RBF),0.7005,0.4406,0.6165,0.2558
+7,Fusion (Abundance+K-mer),XGBoost,0.7052,0.5179,0.6543,0.3227
+8,Fusion (Abundance+K-mer),LASSO-LR,0.7427,0.5709,0.6695,0.367
+8,Fusion (Abundance+K-mer),Random Forest,0.7277,0.4612,0.5333,0.1898
+8,Fusion (Abundance+K-mer),SVM (RBF),0.723,0.5019,0.6725,0.3491
+8,Fusion (Abundance+K-mer),XGBoost,0.7876,0.544,0.6555,0.3508
+9,Fusion (Abundance+K-mer),LASSO-LR,0.7541,0.5286,0.5819,0.2818
+9,Fusion (Abundance+K-mer),Random Forest,0.7408,0.4581,0.5278,0.2127
+9,Fusion (Abundance+K-mer),SVM (RBF),0.7691,0.5132,0.6458,0.3048
+9,Fusion (Abundance+K-mer),XGBoost,0.7226,0.5034,0.6468,0.3136
+10,Fusion (Abundance+K-mer),LASSO-LR,0.6173,0.3706,0.5711,0.1762
+10,Fusion (Abundance+K-mer),Random Forest,0.5522,0.3118,0.5401,0.1292
+10,Fusion (Abundance+K-mer),SVM (RBF),0.6123,0.3544,0.6007,0.2066
+10,Fusion (Abundance+K-mer),XGBoost,0.5893,0.3361,0.5369,0.0803

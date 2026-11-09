@@ -1,0 +1,29 @@
+study,classifier,abundance_AUC_mean,kmer_AUC_mean,AUC_gap_kmer_minus_abundance
+All studies (mixed pool),LASSO-LR,0.6452,0.675,0.0298
+MetaCardis_2020_a (within-study),LASSO-LR,0.6938,0.6526,-0.0412
+All studies (mixed pool),Random Forest,0.6434,0.6824,0.039
+MetaCardis_2020_a (within-study),Random Forest,0.6854,0.6415,-0.0439
+All studies (mixed pool),SVM (RBF),0.6577,0.699,0.0413
+MetaCardis_2020_a (within-study),SVM (RBF),0.6794,0.66,-0.0194
+All studies (mixed pool),XGBoost,0.6621,0.7087,0.0466
+MetaCardis_2020_a (within-study),XGBoost,0.7043,0.6333,-0.071
+ZeeviD_2015 (within-study),LASSO-LR,0.5502,0.6231,0.0729
+ZeeviD_2015 (within-study),Random Forest,0.5212,0.5718,0.0506
+ZeeviD_2015 (within-study),SVM (RBF),0.5716,0.5962,0.0246
+ZeeviD_2015 (within-study),XGBoost,0.5339,0.558,0.0241
+NielsenHB_2014 (within-study),LASSO-LR,0.4847,0.6772,0.1925
+NielsenHB_2014 (within-study),Random Forest,0.6233,0.6946,0.0713
+NielsenHB_2014 (within-study),SVM (RBF),0.6432,0.6982,0.055
+NielsenHB_2014 (within-study),XGBoost,0.6066,0.6846,0.078
+AsnicarF_2021 (within-study),LASSO-LR,0.5997,0.575,-0.0247
+AsnicarF_2021 (within-study),Random Forest,0.6253,0.5518,-0.0735
+AsnicarF_2021 (within-study),SVM (RBF),0.6126,0.5601,-0.0525
+AsnicarF_2021 (within-study),XGBoost,0.6374,0.5336,-0.1038
+HMP_2012 (within-study),LASSO-LR,0.4818,0.4074,-0.0744
+HMP_2012 (within-study),Random Forest,0.4421,0.3855,-0.0566
+HMP_2012 (within-study),SVM (RBF),0.4699,0.566,0.0961
+HMP_2012 (within-study),XGBoost,0.4765,0.3986,-0.0779
+LeChatelierE_2013 (within-study),LASSO-LR,0.5,0.4798,-0.0202
+LeChatelierE_2013 (within-study),Random Forest,0.5818,0.5112,-0.0706
+LeChatelierE_2013 (within-study),SVM (RBF),0.5167,0.4759,-0.0408
+LeChatelierE_2013 (within-study),XGBoost,0.6579,0.4954,-0.1625

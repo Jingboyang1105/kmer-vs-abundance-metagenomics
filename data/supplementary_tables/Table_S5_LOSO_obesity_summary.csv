@@ -1,0 +1,4 @@
+pipeline,AUC_mean,AUC_std,AUC_count,AUPRC_mean,AUPRC_std,AUPRC_count,F1_macro_mean,F1_macro_std,F1_macro_count,MCC_mean,MCC_std,MCC_count
+Abundance,0.5438,0.0922,29,0.2564,0.1818,29,0.4905,0.0493,29,0.0312,0.099,29
+Fusion,0.5459,0.0994,29,0.2721,0.1808,29,0.5012,0.0529,29,0.0546,0.0987,29
+K-mer,0.5478,0.0917,29,0.2742,0.1731,29,0.5027,0.0812,29,0.0701,0.1368,29

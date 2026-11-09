@@ -1,0 +1,25 @@
+task,pipeline,classifier,AUC_mean,AUC_std,AUPRC_mean,AUPRC_std,F1_macro_mean,F1_macro_std,MCC_mean,MCC_std
+ibd,Abundance matched,LASSO-LR,0.6264,0.1252,0.8103,0.0711,0.6169,0.0474,0.2507,0.1073
+ibd,Abundance matched,Random Forest,0.6652,0.0997,0.8353,0.0584,0.6171,0.0668,0.2883,0.105
+ibd,Abundance matched,SVM (RBF),0.6148,0.1503,0.7933,0.0766,0.6108,0.0933,0.2367,0.1807
+ibd,Abundance matched,XGBoost,0.6216,0.1168,0.8058,0.0697,0.6073,0.0764,0.2217,0.1492
+ibd,K-mer matched,LASSO-LR,0.6669,0.0805,0.865,0.05,0.5941,0.0538,0.216,0.1235
+ibd,K-mer matched,Random Forest,0.6877,0.0783,0.8655,0.0423,0.5795,0.0446,0.2057,0.0838
+ibd,K-mer matched,SVM (RBF),0.6984,0.0725,0.8759,0.0348,0.6288,0.0627,0.2659,0.1328
+ibd,K-mer matched,XGBoost,0.6746,0.06,0.8634,0.0346,0.6081,0.0595,0.2256,0.1177
+obesity,Abundance matched,LASSO-LR,0.6605,0.0414,0.3961,0.0733,0.576,0.0339,0.1898,0.0753
+obesity,Abundance matched,Random Forest,0.6544,0.03,0.3845,0.0658,0.4746,0.0413,0.0877,0.1179
+obesity,Abundance matched,SVM (RBF),0.6476,0.0334,0.3676,0.0545,0.5877,0.0368,0.1775,0.0733
+obesity,Abundance matched,XGBoost,0.6556,0.038,0.3975,0.0477,0.5866,0.0424,0.1868,0.0854
+obesity,K-mer matched,LASSO-LR,0.6822,0.058,0.4329,0.0681,0.5783,0.0351,0.2209,0.083
+obesity,K-mer matched,Random Forest,0.678,0.0634,0.4183,0.0569,0.5495,0.0303,0.2043,0.0863
+obesity,K-mer matched,SVM (RBF),0.6876,0.0612,0.4517,0.0802,0.609,0.034,0.2505,0.0752
+obesity,K-mer matched,XGBoost,0.7025,0.0604,0.459,0.0746,0.6413,0.0415,0.3099,0.0839
+geography,Abundance matched,LASSO-LR,0.886,0.0108,0.3947,0.0254,0.3143,0.035,0.3383,0.0343
+geography,Abundance matched,Random Forest,0.9188,0.0125,0.5153,0.0243,0.4666,0.0324,0.4838,0.0436
+geography,Abundance matched,SVM (RBF),0.9302,0.0115,0.5402,0.0291,0.4969,0.0231,0.5112,0.0316
+geography,Abundance matched,XGBoost,0.9333,0.0112,0.5559,0.024,0.4906,0.0226,0.4982,0.0277
+geography,K-mer matched,LASSO-LR,0.8835,0.0149,0.4001,0.0315,0.347,0.0346,0.3708,0.036
+geography,K-mer matched,Random Forest,0.9461,0.0115,0.6132,0.0445,0.5338,0.0342,0.5419,0.0246
+geography,K-mer matched,SVM (RBF),0.9004,0.0153,0.4689,0.0403,0.4169,0.0365,0.4191,0.0393
+geography,K-mer matched,XGBoost,0.956,0.0088,0.6669,0.0492,0.5989,0.0467,0.6091,0.0372

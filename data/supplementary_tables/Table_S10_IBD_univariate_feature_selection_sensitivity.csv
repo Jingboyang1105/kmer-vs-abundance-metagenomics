@@ -1,0 +1,9 @@
+classifier,metric,mean_abundance,mean_kmer,delta_kmer_minus_abundance
+LASSO-LR,AUC,0.6803,0.6751,-0.0052
+LASSO-LR,AUPRC,0.8466,0.8706,0.024
+LASSO-LR,F1_macro,0.6132,0.6016,-0.0116
+LASSO-LR,MCC,0.2586,0.2559,-0.0027
+Random Forest,AUC,0.705,0.7117,0.0066
+Random Forest,AUPRC,0.8586,0.8701,0.0115
+Random Forest,F1_macro,0.6196,0.5677,-0.0519
+Random Forest,MCC,0.279,0.1787,-0.1003

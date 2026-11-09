@@ -1,0 +1,2 @@
+analysis,n_samples,n_IBD,n_nonIBD,total_canonical_kmers,significant_after_BH_FDR_0_05,IBD_enriched_significant,IBD_depleted_significant
+Full-sample IBD k=8 differential k-mer screen,1338,974,364,32896,21359,10215,11144

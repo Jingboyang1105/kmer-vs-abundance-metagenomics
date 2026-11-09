@@ -1,0 +1,13 @@
+task,classifier,rounds_fusion_beats_best_single,total_rounds
+IBD,LASSO-LR,4,10
+IBD,Random Forest,6,10
+IBD,SVM (RBF),5,10
+IBD,XGBoost,6,10
+Obesity,LASSO-LR,7,10
+Obesity,Random Forest,4,10
+Obesity,SVM (RBF),10,10
+Obesity,XGBoost,4,10
+Geography,LASSO-LR,9,10
+Geography,Random Forest,9,10
+Geography,SVM (RBF),10,10
+Geography,XGBoost,10,10
